@@ -1,0 +1,49 @@
+/* App.css */
+.container {
+    background-color: #f8f9fa; /* Light background for the entire container */
+  }
+  
+  h1 {
+    color: #007bff; /* Blue color for the heading */
+  }
+  
+  .form-label {
+    color: #17a2b8; /* Info color for labels */
+  }
+  
+  .btn-info {
+    background-color: #17a2b8; /* Info button color */
+    border: none; /* Remove default border */
+  }
+  
+  .btn-info:hover {
+    background-color: #138496; /* Darker info button color on hover */
+  }
+  
+  .table {
+    margin-top: 20px; /* Space from the top */
+  }
+  
+  .table-dark {
+    background-color: #343a40; /* Dark background for table header */
+    color: #fff; /* White text for table header */
+  }
+  
+  .bg-light {
+    background-color: #e9ecef; /* Light background for form controls */
+  }
+  
+  .bg-white {
+    background-color: #ffffff; /* White background for the table */
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border: none; /* Remove default border */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker primary button color on hover */
+  }
+  
+  
